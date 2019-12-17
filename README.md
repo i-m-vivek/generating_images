@@ -10,3 +10,6 @@ I trained my model on MNIST digit data. The code can be found in [bayes.py](http
 ![Zero Generated](https://github.com/i-m-vivek/generating_images/blob/master/images/Bayes_Gen/zero_gen.png "Zero Generated")
 
 Mean Image & Generated Image
+
+### Image Generation Using Gaussian Mixture 
+Code for Gaussian Mixture can be found in [bayes_classifier_gmm-mnist.py](https://github.com/i-m-vivek/generating_images/blob/master/bayes_classifier_gmm-mnist.py).
