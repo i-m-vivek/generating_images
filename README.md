@@ -13,3 +13,8 @@ Mean Image & Generated Image
 
 ### Image Generation Using Gaussian Mixture 
 Code for Gaussian Mixture can be found in [bayes_classifier_gmm-mnist.py](https://github.com/i-m-vivek/generating_images/blob/master/bayes_classifier_gmm-mnist.py).
+
+
+### Image Generation Using Autoencoder with the use of Guassian Mixture 
+Follow this [link](https://colab.research.google.com/drive/1-51-quUrtDcXyVrNRkEg7imb0NrLdo9r) to play with the code.
+
