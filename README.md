@@ -7,8 +7,7 @@ I trained my model on MNIST digit data. The code can be found in [bayes.py](http
 
 
 ![Bayes Generated Images](https://github.com/i-m-vivek/generating_images/blob/master/images/Bayes_Gen/generated_image-40000.png)
-
-Mean Image & Generated Image
+First Row is the mean of the images over the dataset & the second row represents the image created by multivariat gaussian distribution.<br>
 
 ### Image Generation Using Gaussian Mixture 
 Code for Gaussian Mixture can be found in [bayes_classifier_gmm-mnist.py](https://github.com/i-m-vivek/generating_images/blob/master/bayes_classifier_gmm-mnist.py).
