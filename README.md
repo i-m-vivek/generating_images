@@ -6,14 +6,13 @@ We can make our model to generate new images by learning a multivariate gaussian
 I trained my model on MNIST digit data. The code can be found in [bayes.py](https://github.com/i-m-vivek/generating_images/blob/master/bayes.py).
 
 
-![Zero Mean](https://github.com/i-m-vivek/generating_images/blob/master/images/Bayes_Gen/zero.png "Zero Mean")
-![Zero Generated](https://github.com/i-m-vivek/generating_images/blob/master/images/Bayes_Gen/zero_gen.png "Zero Generated")
+![Bayes Generated Images](https://github.com/i-m-vivek/generating_images/blob/master/images/Bayes_Gen/generated_image-40000.png)
 
 Mean Image & Generated Image
 
 ### Image Generation Using Gaussian Mixture 
 Code for Gaussian Mixture can be found in [bayes_classifier_gmm-mnist.py](https://github.com/i-m-vivek/generating_images/blob/master/bayes_classifier_gmm-mnist.py).
-
+![Gaussian Mixture Generated Images](https://github.com/i-m-vivek/generating_images/blob/master/images/gmm_images/generated_image.png)
 
 ### Image Generation Using Autoencoder with the use of Guassian Mixture 
 Follow this [link](https://colab.research.google.com/drive/1-51-quUrtDcXyVrNRkEg7imb0NrLdo9r) to play with the code.
