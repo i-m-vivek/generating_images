@@ -1,5 +1,6 @@
 # Image Generation
-This repository contains different methods for generating new images.
+This repository contains different methods for generating new images using some generative algorithms.<br>
+To know more about generative algorithms check out [CS 229](http://cs229.stanford.edu/) generative learning [handout](https://see.stanford.edu/materials/aimlcs229/cs229-notes2.pdf).
 
 ### Image Generation Using Multivariate Gaussian Distribution 
 We can make our model to generate new images by learning a multivariate gaussian distribution, the parameters for the model that are mean and covariance will be same as the mean of the data for that class and covariance of the data. <br>
